@@ -1,4 +1,4 @@
-#FROM node:14 as build-stage 
+FROM node:14 as build-stage 
 #WORKDIR /Users/hong-geumbi/Desktop/test1
 
 COPY package*.json ./
