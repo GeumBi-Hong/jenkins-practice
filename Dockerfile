@@ -1,5 +1,5 @@
-FROM node:14 as build-stage 
-WORKDIR /Users/hong-geumbi/Desktop/test1
+#FROM node:14 as build-stage 
+#WORKDIR /Users/hong-geumbi/Desktop/test1
 
 COPY package*.json ./
 RUN npm install
