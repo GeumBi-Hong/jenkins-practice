@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="광주 1반 홍금비 배포 실습 입니다."/>
+    <HelloWorld msg="광주 1반 홍금비 배포 실습 입니다 재."/>
   </div>
 </template>
 
